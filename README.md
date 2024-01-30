@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm an engineering student pursuing a career in data-analytics or data science! 
+
+I use GitHub mostly as a portfolio for my (course) projects.
+
 <!--
 **Myrsy/Myrsy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
